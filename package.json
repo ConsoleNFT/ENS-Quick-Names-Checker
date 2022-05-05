@@ -1,0 +1,16 @@
+{
+  "name": "ens_quick_names_checker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "keccak256": "^1.0.6",
+    "mysql-await": "^2.1.8",
+    "web3": "^1.7.3"
+  }
+}
